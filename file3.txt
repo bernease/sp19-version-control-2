@@ -1,2 +1,2 @@
-On my master branch here! First line.
+On my master branch (and fix), this is the first line of the third file.
 Second line, master branch.
